@@ -24,6 +24,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-3.0-red)
 ![image](https://github.com/user-attachments/assets/f368929b-bc01-4134-91d2-00dd483058bc)
 
+public class SelfIntroduction { public static void main(String[] args) { System.out.println("이름: 유진명 (LIu zhenming)"); System.out.println("학번: 202312497"); System.out.println("전공: IT융합학부 컴퓨터소프트웨어전공"); System.out.println("국적: 중국"); System.out.println("안녕하세요! 저는 중국에서 온 유진명입니다."); System.out.println("프로그래밍과 소프트웨어 개발에 관심이 많으며, Java를 배우고 있습니다."); System.out.println("잘 부탁드립니다!"); } 
+
 
 
 
